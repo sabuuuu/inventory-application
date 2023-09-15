@@ -23,4 +23,4 @@ An inventory management application for tracking products, stock levels, and sal
 
 - Alerting Mechanisms: I implemented automatic alerts to notify users when products are running out of stock, improving inventory management efficiency.
 
-his project has allowed me to apply a wide range of web development skills and technologies, enhancing my understanding of building robust and user-friendly web applications.
+This project has allowed me to apply a wide range of web development skills and technologies, enhancing my understanding of building robust and user-friendly web applications.
