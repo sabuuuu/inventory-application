@@ -21,8 +21,6 @@ An inventory management application for tracking products, stock levels, and sal
 
 - Inventory Management: I developed skills in building inventory management systems, including adding, updating, and tracking products and stock levels.
 
-- Data Reporting: I learned to generate reports that provide insights into product sales and inventory status, contributing to informed decision-making.
-
 - Alerting Mechanisms: I implemented automatic alerts to notify users when products are running out of stock, improving inventory management efficiency.
 
 his project has allowed me to apply a wide range of web development skills and technologies, enhancing my understanding of building robust and user-friendly web applications.
